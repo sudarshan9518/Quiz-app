@@ -1,6 +1,6 @@
-# SCT_Trackcode_Task_3
+#  Quiz App 🎯
 
-# Quiz App 🎯
+
 
 This is a simple **Quiz Application** built using **HTML, CSS, and JavaScript** as part of Task 3 in my **SkillCraft Internship**. The project helped me gain hands-on experience in frontend development and understand how JavaScript works in interactive web applications.
 
